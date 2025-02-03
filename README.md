@@ -24,4 +24,4 @@ while((ch = getch()) != '\r') {
 }
 pass[i] = '\0'
 
-getch() and putch() are included in the conio.h file which i will attach to the repo. Paste it in the compiler include path to enjoy some Privacy!!
+getch() and putch() are included in the conio.h file whose link i will attach to the repo. Paste it in the compiler include path to enjoy some Privacy!!
